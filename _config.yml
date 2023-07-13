@@ -425,3 +425,6 @@ jsonresume:
   - languages
   - interests
   - references
+  
+gems:
+  - jekyll-jupyter-notebook
