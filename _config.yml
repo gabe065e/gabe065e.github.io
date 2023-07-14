@@ -426,5 +426,3 @@ jsonresume:
   - interests
   - references
   
-gems:
-  - jekyll-jupyter-notebook
